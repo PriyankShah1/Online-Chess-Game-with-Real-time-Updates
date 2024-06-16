@@ -60,16 +60,17 @@ Make sure you have the following installed on your local machine:
 - Spectators can watch the game in real-time but cannot make moves.
 
 ## Project Structure
-online-chess-game/
+Online-Chess-Game-with-Real-time-Updates/
 ├── public/
-│ ├── css/
-│ │ └── styles.css
-│ ├── js/
-│ │ └── chessgame.js
-│ └── index.html
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── chessgame.js
+│   └── index.html
 ├── app.js
 ├── package.json
 └── README.md
+
 
 
 - `public/` contains the frontend files.
