@@ -24,7 +24,7 @@ Make sure you have the following installed on your local machine:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/online-chess-game.git
+    git clone git clone https://github.com/PriyankShah1/Online-Chess-Game-with-Real-time-Updates.git
     ```
 
 2. Navigate to the project directory:
