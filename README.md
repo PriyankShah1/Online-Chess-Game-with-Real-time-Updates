@@ -60,4 +60,29 @@ Make sure you have the following installed on your local machine:
 - Spectators can watch the game in real-time but cannot make moves.
 
 ## Project Structure
+online-chess-game/
+├── public/
+│ ├── css/
+│ │ └── styles.css
+│ ├── js/
+│ │ └── chessgame.js
+│ └── index.html
+├── app.js
+├── package.json
+└── README.md
+
+
+- `public/` contains the frontend files.
+- `app.js` is the main entry point of the application.
+- `package.json` contains the list of dependencies and scripts.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the ISC License.
+
+
 
